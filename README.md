@@ -7,3 +7,12 @@
 - 💻 Languages I have learned: Java, Python, HTML, and Arduino
 - 📫 How to reach me: shaan.kohli@ryerson.ca
 
+![](https://img.shields.io/static/v1?label=OS&message=Windows&color=blue)
+![](https://img.shields.io/static/v1?label=CODE&message=Java&color=red)
+![](https://img.shields.io/static/v1?label=CODE&message=Python&color=red)
+![](https://img.shields.io/static/v1?label=CODE&message=HTML&color=red)
+![](https://img.shields.io/static/v1?label=CODE&message=Arduino&color=red)
+![](https://img.shields.io/static/v1?label=TextEditor&message=PyCharm&color=purple)
+![](https://img.shields.io/static/v1?label=TextEditor&message=VSCode&color=purple)
+![](https://img.shields.io/static/v1?label=Tools&message=Git&color=yellow)
+
