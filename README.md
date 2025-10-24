@@ -2,7 +2,7 @@
 
 I’m **Shaan Kohli**, a **Software Developer at Bell** and a recent Computer Science graduate from **Toronto Metropolitan University** (formerly Ryerson University). I love building projects, exploring new technologies, and continuously improving my coding skills.  
 
-- 🔭 I’m currently working on **software development projects at Bell**  
+- 🔭 I’m currently working on **automation stuff at Bell Canada**  
 - 🌱 Always learning: **modern frameworks, full-stack development, and cutting-edge technologies**  
 - 💬 Ask me about **TV shows, video games, sports**, or anything tech-related  
 - ⚡ Fun fact: I’ve traveled to **15+ countries** and counting  
